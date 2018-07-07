@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 32px;
+  background-color: #fffdea;
+  font-family: sans-serif;
+}
+
+.cabezera {
+  background-color: #0044ff;
+  color: #ffffff;
+}
+br,
+.cabezera,
+.CabezeraTXT {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.noseleccionado {
+  background-color: #ffffff;
+  cursor: pointer;
+}
+.noseleccionado:hover {
+  background-color: #c0cff8;
+}
+.resaltado {
+  background-color: #6d91f3;
+  color:  #ffffff;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table,
+th,
+td {
+  table-layout: fixed;
+  width: 100%;
+  border: 1px solid black;
+  height: 30px;
+  text-align: center;
+}
+th,
+td {
+  width: 100px;
+}
