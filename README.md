@@ -1,4 +1,4 @@
 # ScheduleQ
 A simple weekly schedule made with a table and JQuery. It was made as a part of a meteor project for a school assignment in my seventh semester at university.
 For a live demonstration you can go [here](https://jsfiddle.net/alkhioz/xwd2zfk4/).
-![A weekly schedule](https://lh3.googleusercontent.com/UdvA8yDadOQP5jNgHVrccsrxuf8R-uvnL3ebt5hAl_dt9hcVvd8q-FmtOYyXVbPlO7dtaHz8MTIp4peG0trkZpvflyvXgv7gtO7WG4BOJXbYibf-Xo3gev24xu07pdqu_vdF-Hne2OlFG4BJWpW5Kr5SQT00YSpb61ZYRvgD7NBBnDi03ykrCNgP7aOiJmapVqN0vKSe53XTfzO4Z6YDp7JIjTho1HY1oUSu7rdRF51YYg8_5niHJqHM7eAFGFe6yHrXrMZ8bl-N36O9IhPthowLH6sCbKZKuZ_X_OmFvM-8m3ojeG-cTnK27z0nse52Dm4akCueeAlQNWtusSdEeOaC9CBgzVJ7qYM5D0LEtwqX_XXT7JugXXvE-LRhcfT6PpXK6jqT6o2c8HhlPswJjQX7wi6RcydIp52Cz8lLT27W5W713W_aqqiup0YzCP7oRhezjqSx3f87omgyzgoQDtb-v_eqBSjmUqiZZGmyi6uy5y02pJYMK75RUVrb7VihmSCOHigsKdK1frSzvvnThvJcPc_Jz4nCJJhV2IOM730uGB3vAbFGKMn7NYfO5EZBuBaF6FCAXoulz2M95b7-XrA7qkPz09fMEmpWtjOpOyPl0GToh07HLlyFM4QOPFpxslTj8dGPQyrVWR061Ft2vBQJsD7O1sQ=w1028-h489-no)
+![A weekly schedule](sche.png)
